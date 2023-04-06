@@ -24,7 +24,6 @@ $(document).ready(function() {
                             <p class="card-text">sepecies: ${charObj.species}</p>
                             <p class="card-text">status: ${charObj.status}</p>
                             <p class="card-text">participate in ${charObj.episode.length} episode(-s)</p>
-                            
                         </div>
                 </div>`)
             console.log(status)
